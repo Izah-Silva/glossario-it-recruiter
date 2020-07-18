@@ -1,4 +1,4 @@
-# Glossário para IT Recruiters
+# Glossário para IT Recruiters 💜
 
 Olá! O objetivo deste glossário é contribuir para que os profissionais da área de recrutamento possam se familiarizar com termos técnicos da área de TI.
 
